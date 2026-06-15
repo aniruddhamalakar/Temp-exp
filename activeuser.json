@@ -2,12 +2,12 @@
     {
         "device_id": "675a5dd68e02316f",
         "username": "admin",
-        "password": "masterkey",
-        "expirydate": "30-06-2026",
+        "password": "admin",
+        "expirydate": "30-10-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "675a5dd68e02316f",
+        "device_id": "7eb21f819391e7e2",
         "username": "little",
         "password": "pilu",
         "expirydate": "30-10-2026",
